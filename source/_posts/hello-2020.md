@@ -1,9 +1,15 @@
 ---
-title: 回归
-date: 2020-04-10 12:31:06
+layout:     post
+title:      "再回归"
+subtitle:   "记录生活"
+date:       2020-04-10 12:31:06
+author:     "Hecv"
+# header-img: "post-bg-unix-linux.jpg"
 tags:
     - 随性
 ---
+
+
 
 > “I'm back ... ”
 
